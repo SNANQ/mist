@@ -3,7 +3,7 @@
  
  这里共4个主要的分支
  - master  主(web环境)分支，包括程序的使用文档
- - windows  windows系统环境下，使用的分支
+ - window  windows系统环境下，使用的分支
  - linux   linux(主要针对centos)等，使用的分支
  - android 安卓手机平台使用的分支
  
